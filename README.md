@@ -27,7 +27,7 @@ Vepsäläinen, Jari. 2022. "[Energy Demand Analysis and Powertrain Design of a H
   journal={Energies},
   volume={15},
   number={6},
-  pages={21},
+  pages={1-21},
   year={2022},
   publisher={Multidisciplinary Digital Publishing Institute}
 }
