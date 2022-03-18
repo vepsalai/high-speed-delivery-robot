@@ -14,7 +14,7 @@ Elevation data is also added, which is provided by the [Open Topo Data API](http
 pip install -r requirements.txt
 ```
 
-## Please reference if you use in your work:
+## Please reference if you use it in your work:
 [Paper submitted, not published]
 
 
