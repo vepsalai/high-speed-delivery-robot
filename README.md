@@ -1,5 +1,5 @@
 Version 1.0
-11.02.2022
+Created 11.02.2022
 by Jari Vepsäläinen
 
 # High-speed delivery robot powertrain design using synthetic driving cycles
@@ -15,7 +15,23 @@ pip install -r requirements.txt
 ```
 
 ## Please reference if you use it in your work:
-[Paper submitted, not published]
+
+Vepsäläinen, Jari. 2022. "[Energy Demand Analysis and Powertrain Design of a High-Speed Delivery Robot Using Synthetic Driving Cycles](https://www.mdpi.com/1996-1073/15/6/2198)". Energies 15, no. 6: 2198. https://doi.org/10.3390/en15062198
+
+### BibTex
+
+```
+@article{vepsalainen2022,
+  title={Energy Demand Analysis and Powertrain Design of a High-Speed Delivery Robot Using Synthetic Driving Cycles},
+  author={Veps{\"a}l{\"a}inen, Jari},
+  journal={Energies},
+  volume={15},
+  number={6},
+  pages={21},
+  year={2022},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+```
 
 
 
